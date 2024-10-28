@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yujun Liang, Yi Ren (Tsinghua University); | THU HAS Lab</title>
+    <link>http://localhost:8088/author/yujun-liang-yi-ren-tsinghua-university/</link>
+      <atom:link href="http://localhost:8088/author/yujun-liang-yi-ren-tsinghua-university/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yujun Liang, Yi Ren (Tsinghua University);</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:8088/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Yujun Liang, Yi Ren (Tsinghua University);</title>
+      <link>http://localhost:8088/author/yujun-liang-yi-ren-tsinghua-university/</link>
+    </image>
+    
+    <item>
+      <title>GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets</title>
+      <link>http://localhost:8088/publication/co-public/2025-gadgetmeter/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8088/publication/co-public/2025-gadgetmeter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

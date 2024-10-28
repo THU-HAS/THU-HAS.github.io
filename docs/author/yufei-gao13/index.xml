@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yufei Gao1,3 | THU HAS Lab</title>
+    <link>http://localhost:8088/author/yufei-gao13/</link>
+      <atom:link href="http://localhost:8088/author/yufei-gao13/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yufei Gao1,3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:8088/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Yufei Gao1,3</title>
+      <link>http://localhost:8088/author/yufei-gao13/</link>
+    </image>
+    
+    <item>
+      <title>From Optimal to Practical: Efficient Micro-op Cache Replacement Policies for Data Center Applications</title>
+      <link>http://localhost:8088/publication/co-public/2025-from-optimal-to-practical/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8088/publication/co-public/2025-from-optimal-to-practical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

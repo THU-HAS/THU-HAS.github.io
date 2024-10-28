@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Jin | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/yu-jin/</link>
+      <atom:link href="https://thu-has.github.io/author/yu-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Jin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://thu-has.github.io/author/yu-jin/avatar_hu_f6fb633e85eb70a1.jpeg</url>
+      <title>Yu Jin</title>
+      <link>https://thu-has.github.io/author/yu-jin/</link>
+    </image>
+    
+  </channel>
+</rss>
