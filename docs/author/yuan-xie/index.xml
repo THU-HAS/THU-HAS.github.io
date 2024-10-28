@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Xie | THU-HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/yuan-xie/</link>
+      <atom:link href="https://www.thu-haslab.org/author/yuan-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Xie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2027 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_c7bbe91f9032e91c.png</url>
+      <title>Yuan Xie</title>
+      <link>https://www.thu-haslab.org/author/yuan-xie/</link>
+    </image>
+    
+    <item>
+      <title>Making Protocol Effects Explicit: LLM-to-Packet Simulation for Superpod Interconnect Exploration</title>
+      <link>https://www.thu-haslab.org/publication/2027-protobridge/</link>
+      <pubDate>Sat, 20 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2027-protobridge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

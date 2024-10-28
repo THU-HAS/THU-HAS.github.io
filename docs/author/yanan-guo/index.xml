@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanan Guo | THU-HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/yanan-guo/</link>
+      <atom:link href="https://www.thu-haslab.org/author/yanan-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanan Guo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_c7bbe91f9032e91c.png</url>
+      <title>Yanan Guo</title>
+      <link>https://www.thu-haslab.org/author/yanan-guo/</link>
+    </image>
+    
+    <item>
+      <title>GhostAccess: Attacking the GPU on the Multi-tenant Cloud via CPU LLC under Unified Memory</title>
+      <link>https://www.thu-haslab.org/publication/2026-ghostaccess/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-ghostaccess/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

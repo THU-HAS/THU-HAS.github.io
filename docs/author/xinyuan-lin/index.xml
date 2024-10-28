@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyuan Lin | THU-HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/xinyuan-lin/</link>
+      <atom:link href="https://www.thu-haslab.org/author/xinyuan-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinyuan Lin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2027 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_c7bbe91f9032e91c.png</url>
+      <title>Xinyuan Lin</title>
+      <link>https://www.thu-haslab.org/author/xinyuan-lin/</link>
+    </image>
+    
+    <item>
+      <title>Argus: Hardware-Software Co-Scaling of Tensor Parallelism for Efficient LLM Training</title>
+      <link>https://www.thu-haslab.org/publication/2027-argus/</link>
+      <pubDate>Sun, 11 Apr 2027 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2027-argus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNIPOOL: Unlocking Communication Potential of LLM System via Interface Pooling Architecture and Schedule</title>
+      <link>https://www.thu-haslab.org/publication/2027-unipool/</link>
+      <pubDate>Sat, 20 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2027-unipool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HybridSpec: Exploiting Hybrid-bonding Memory to Accelerate LLM Serving through Heterogeneous Architecture and Speculative Decoding</title>
+      <link>https://www.thu-haslab.org/publication/2026-hybridspec/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-hybridspec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hecaton: Training Large Language Models with Scalable Chiplet Systems</title>
+      <link>https://www.thu-haslab.org/publication/co-public/2024-hecaton/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/co-public/2024-hecaton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

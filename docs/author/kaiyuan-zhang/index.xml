@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaiyuan Zhang | THU-HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/kaiyuan-zhang/</link>
+      <atom:link href="https://www.thu-haslab.org/author/kaiyuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaiyuan Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2027 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_c7bbe91f9032e91c.png</url>
+      <title>Kaiyuan Zhang</title>
+      <link>https://www.thu-haslab.org/author/kaiyuan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>ZenFetch: Enabling Prefetcher-based Side-Channel Attack on Modern AMD Zen Chips</title>
+      <link>https://www.thu-haslab.org/publication/2027-zenfetch/</link>
+      <pubDate>Sat, 20 Mar 2027 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2027-zenfetch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
