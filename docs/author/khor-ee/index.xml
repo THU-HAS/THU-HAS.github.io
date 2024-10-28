@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khor Ee | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/khor-ee/</link>
+      <atom:link href="https://thu-has.github.io/author/khor-ee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khor Ee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://thu-has.github.io/author/khor-ee/avatar_hu_5e88e8623fb1e7b4.jpg</url>
+      <title>Khor Ee</title>
+      <link>https://thu-has.github.io/author/khor-ee/</link>
+    </image>
+    
+    <item>
+      <title>Khor Ee</title>
+      <link>https://thu-has.github.io/author/khor-ee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/author/khor-ee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shengwei Liu | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/shengwei-liu/</link>
+      <atom:link href="https://thu-has.github.io/author/shengwei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shengwei Liu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Shengwei Liu</title>
+      <link>https://thu-has.github.io/author/shengwei-liu/</link>
+    </image>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://thu-has.github.io/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

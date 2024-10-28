@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>THU HAS Lab</title>
+    <link>https://thu-has.github.io/</link>
+      <atom:link href="https://thu-has.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>THU HAS Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>THU HAS Lab</title>
+      <link>https://thu-has.github.io/</link>
+    </image>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://thu-has.github.io/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DROW: Training-Free Load Speculative Execution Attacks on Apple Silicon</title>
+      <link>https://thu-has.github.io/publication/2026-drow/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-drow/</guid>
+      <description>&lt;p&gt;&amp;quot;&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DSASSASSIN: Cross-VM Side-Channel Attacks by Exploiting Intel Data Streaming Accelerator</title>
+      <link>https://thu-has.github.io/publication/2026-dsassassin/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-dsassassin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PPA: Novel Page Prefetcher-Based Side-Channel Attacks</title>
+      <link>https://thu-has.github.io/publication/2025-ppa/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-ppa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GhostCache: Timer- and Counter-Free Cache Attacks Exploiting Weak Coherence on RISC-V and ARM Chips</title>
+      <link>https://thu-has.github.io/publication/2025-ghostcache/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-ghostcache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS</title>
+      <link>https://thu-has.github.io/publication/2025-wpc/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-wpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CXL-Interplay: Unraveling and Characterizing CXL Interference in Modern Computer Systems</title>
+      <link>https://thu-has.github.io/publication/2025-cxl-interplay/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-cxl-interplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGNAR: Exploring Volatile-Channel Vulnerabilities on RDMA NIC</title>
+      <link>https://thu-has.github.io/publication/2025-ragnar/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-ragnar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Optimal to Practical: Efficient Micro-op Cache Replacement Policies for Data Center Applications</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-from-optimal-to-practical/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-from-optimal-to-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-palermo/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-palermo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-gadgetmeter/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-gadgetmeter/</guid>
+      <description>&lt;p&gt;acceptance rate: 16.1%&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses</title>
+      <link>https://thu-has.github.io/publication/2024-cimsat/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2024-cimsat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper is accepted at NDSS 2025!</title>
+      <link>https://thu-has.github.io/post/25-2-24-ndss2025/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/post/25-2-24-ndss2025/</guid>
+      <description>&lt;p&gt;GadgetMeter: Quantitatively and Accurately Gauge the Exploitability of Speculative Gadgets&lt;/p&gt;
+&lt;p&gt;Our paper will be presented during NDSS 2025 (Feb. 24th - Feb. 28th).&lt;/p&gt;
+&lt;p&gt;For more details, please see the NDSS 2025 program: &lt;a href=&#34;https://www.ndss-symposium.org/ndss2025/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ndss-symposium.org/ndss2025/program/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Author List:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qi Ling (Shanghai Jia Tong University)&lt;/li&gt;
+&lt;li&gt;Yujun Liang (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Yi Ren (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Baris Kasikci (University of Washington)&lt;/li&gt;
+&lt;li&gt;Shuwen Deng* (Tsinghua University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[*]: corresponding author.&lt;/p&gt;
+&lt;p&gt;[1] Qi Ling, Yujun Liang, Yi Ren, Baris Kasikci and Shuwen Deng. NDSS 2025. GadgetMeter: Quantitatively and Accurately Gauge the Exploitability of Speculative Gadgets. In Proceedings of the 2025 Network and Distributed System Security (NDSS&amp;rsquo; 25) Symposium, February 24–28, 2025, San Diego, CA, USA.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hecaton: Training Large Language Models with Scalable Chiplet Systems</title>
+      <link>https://thu-has.github.io/publication/co-public/2024-hecaton/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2024-hecaton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper is accepted at CCS 2024!</title>
+      <link>https://thu-has.github.io/post/24-10-16-ccs2024/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/post/24-10-16-ccs2024/</guid>
+      <description>&lt;p&gt;CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses&lt;/p&gt;
+&lt;p&gt;Our paper will be presented on Thursday, October 17th, at Main Conference, 11:45 AM – 12:00 PM, Grand Ballroom Salon E.&lt;/p&gt;
+&lt;p&gt;Welcome to the 7-3. HW &amp;amp; CPS: Security of Circuit Design and FPGAs session.&lt;/p&gt;
+&lt;p&gt;For more details, please see the ACM CCS 2024 program: &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2024/program/schedule.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sigsac.org/ccs/CCS2024/program/schedule.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Author List:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jianfeng Wang (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Huazhong Yang (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Shuwen Deng* (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Xueqing Li* (Tsinghua University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[*]: corresponding author.&lt;/p&gt;
+&lt;p&gt;[1] Jianfeng Wang, Huazhong Yang, Shuwen Deng, and Xueqing Li. 2024. CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses. In Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS&amp;rsquo; 24), October 14–18, 2024, Salt Lake City, UT, USA.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TroScan: Enhancing on-chip delivery resilience to physical attack through frequency-triggered key generation</title>
+      <link>https://thu-has.github.io/publication/2024-troscan/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2024-troscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Secure TLBs</title>
+      <link>https://thu-has.github.io/publication/2023-designing-secure-tlbs/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2023-designing-secure-tlbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of Approaches and Techniques for Security Verification of Computer Systems</title>
+      <link>https://thu-has.github.io/publication/co-public/2023-survey/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2023-survey/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing Reset Operations in NISQ Quantum Computers</title>
+      <link>https://thu-has.github.io/publication/co-public/2022-securing-reset/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2022-securing-reset/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thu-has.github.io/join-us/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/join-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://thu-has.github.io/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaky Frontends: Micro-Op Cache and Processor Frontend Vulnerabilities</title>
+      <link>https://thu-has.github.io/publication/2022-leaky-frontends/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2022-leaky-frontends/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Processor Microarchitecture Security</title>
+      <link>https://thu-has.github.io/publication/2022-processor-uarch-sec/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2022-processor-uarch-sec/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Predictor-Based Attacks in Processors</title>
+      <link>https://thu-has.github.io/publication/2021-new-predictor-based-attacks/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-new-predictor-based-attacks/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Cache Attacks on Arm Processors and Secure Caches</title>
+      <link>https://thu-has.github.io/publication/2021-evaluation-of-cache-attacks/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-evaluation-of-cache-attacks/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Device- and Locality-Specific Fingerprinting of Shared NISQ Quantum Computers</title>
+      <link>https://thu-has.github.io/publication/co-public/2021-device-and-locality-specific/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2021-device-and-locality-specific/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Insecurity of Processor Caches Due to Cache Timing-Based Vulnerabilities</title>
+      <link>https://thu-has.github.io/publication/2021-understanding/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-understanding/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Benchmark Suite for Evaluating Caches’ Vulnerability to Timing Attacks</title>
+      <link>https://thu-has.github.io/publication/2020-a-benchmark/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2020-a-benchmark/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Secure Caches using a Three-Step Model for Timing-Based Attacks</title>
+      <link>https://thu-has.github.io/publication/2019-analysis-of-secure-caches/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2019-analysis-of-secure-caches/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XMSS and Embedded Systems - XMSS Hardware Accelerators for RISC-V</title>
+      <link>https://thu-has.github.io/publication/co-public/2019-xmss/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2019-xmss/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secure TLBs</title>
+      <link>https://thu-has.github.io/publication/2019-secure-tlbs/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2019-secure-tlbs/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cache timing side-channel vulnerability checking with computation tree logic</title>
+      <link>https://thu-has.github.io/publication/2018-cache-timing/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2018-cache-timing/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topological Approach to Automatic Symbolic Macromodel Generation for Analog Integrated Circuits</title>
+      <link>https://thu-has.github.io/publication/co-public/2017-topological/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2017-topological/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secchisel: Language and tool for practical and scalable security verification of security-aware hardware architectures</title>
+      <link>https://thu-has.github.io/publication/2017-secchisel/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2017-secchisel/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
