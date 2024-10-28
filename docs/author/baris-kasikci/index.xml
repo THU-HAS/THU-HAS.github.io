@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baris Kasikci | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/baris-kasikci/</link>
+      <atom:link href="https://thu-has.github.io/author/baris-kasikci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baris Kasikci</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Baris Kasikci</title>
+      <link>https://thu-has.github.io/author/baris-kasikci/</link>
+    </image>
+    
+    <item>
+      <title>From Optimal to Practical: Efficient Micro-op Cache Replacement Policies for Data Center Applications</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-from-optimal-to-practical/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-from-optimal-to-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-palermo/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-palermo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-gadgetmeter/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-gadgetmeter/</guid>
+      <description>&lt;p&gt;acceptance rate: 16.1%&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

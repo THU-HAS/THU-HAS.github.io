@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guiming Shi | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/guiming-shi/</link>
+      <atom:link href="https://thu-has.github.io/author/guiming-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guiming Shi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Guiming Shi</title>
+      <link>https://thu-has.github.io/author/guiming-shi/</link>
+    </image>
+    
+    <item>
+      <title>WPC: Weight Plaintext Compression for CNN Inference based on RNS-CKKS</title>
+      <link>https://thu-has.github.io/publication/2025-wpc/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-wpc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

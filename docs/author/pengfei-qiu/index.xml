@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengfei Qiu | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/pengfei-qiu/</link>
+      <atom:link href="https://thu-has.github.io/author/pengfei-qiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengfei Qiu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Pengfei Qiu</title>
+      <link>https://thu-has.github.io/author/pengfei-qiu/</link>
+    </image>
+    
+    <item>
+      <title>GhostCache: Timer- and Counter-Free Cache Attacks Exploiting Weak Coherence on RISC-V and ARM Chips</title>
+      <link>https://thu-has.github.io/publication/2025-ghostcache/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-ghostcache/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

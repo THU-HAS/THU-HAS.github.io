@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tingting Yin | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/tingting-yin/</link>
+      <atom:link href="https://thu-has.github.io/author/tingting-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tingting Yin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Tingting Yin</title>
+      <link>https://thu-has.github.io/author/tingting-yin/</link>
+    </image>
+    
+    <item>
+      <title>DROW: Training-Free Load Speculative Execution Attacks on Apple Silicon</title>
+      <link>https://thu-has.github.io/publication/2026-drow/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-drow/</guid>
+      <description>&lt;p&gt;&amp;quot;&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
