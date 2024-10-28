@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linsiyu | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/linsiyu/</link>
+      <atom:link href="https://thu-has.github.io/author/linsiyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linsiyu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Linsiyu</title>
+      <link>https://thu-has.github.io/author/linsiyu/</link>
+    </image>
+    
+    <item>
+      <title>Siyu Lin</title>
+      <link>https://thu-has.github.io/author/siyu-lin/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/author/siyu-lin/</guid>
+      <description>&lt;p&gt;Hi! My research interests include computer architecture, chip interconnection and so on.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

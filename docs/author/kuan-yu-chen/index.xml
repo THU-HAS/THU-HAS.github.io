@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuan-Yu Chen | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/kuan-yu-chen/</link>
+      <atom:link href="https://thu-has.github.io/author/kuan-yu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kuan-Yu Chen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Kuan-Yu Chen</title>
+      <link>https://thu-has.github.io/author/kuan-yu-chen/</link>
+    </image>
+    
+    <item>
+      <title>Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-palermo/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-palermo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

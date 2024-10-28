@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yujun Liang | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/yujun-liang/</link>
+      <atom:link href="https://thu-has.github.io/author/yujun-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yujun Liang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Yujun Liang</title>
+      <link>https://thu-has.github.io/author/yujun-liang/</link>
+    </image>
+    
+    <item>
+      <title>GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets</title>
+      <link>https://thu-has.github.io/publication/co-public/2025-gadgetmeter/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2025-gadgetmeter/</guid>
+      <description>&lt;p&gt;acceptance rate: 16.1%&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

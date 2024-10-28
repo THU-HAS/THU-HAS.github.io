@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jakub Szefer | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/jakub-szefer/</link>
+      <atom:link href="https://thu-has.github.io/author/jakub-szefer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jakub Szefer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Jakub Szefer</title>
+      <link>https://thu-has.github.io/author/jakub-szefer/</link>
+    </image>
+    
+    <item>
+      <title>Designing Secure TLBs</title>
+      <link>https://thu-has.github.io/publication/2023-designing-secure-tlbs/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2023-designing-secure-tlbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of Approaches and Techniques for Security Verification of Computer Systems</title>
+      <link>https://thu-has.github.io/publication/co-public/2023-survey/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2023-survey/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing Reset Operations in NISQ Quantum Computers</title>
+      <link>https://thu-has.github.io/publication/co-public/2022-securing-reset/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2022-securing-reset/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leaky Frontends: Micro-Op Cache and Processor Frontend Vulnerabilities</title>
+      <link>https://thu-has.github.io/publication/2022-leaky-frontends/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2022-leaky-frontends/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Predictor-Based Attacks in Processors</title>
+      <link>https://thu-has.github.io/publication/2021-new-predictor-based-attacks/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-new-predictor-based-attacks/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Cache Attacks on Arm Processors and Secure Caches</title>
+      <link>https://thu-has.github.io/publication/2021-evaluation-of-cache-attacks/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-evaluation-of-cache-attacks/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Device- and Locality-Specific Fingerprinting of Shared NISQ Quantum Computers</title>
+      <link>https://thu-has.github.io/publication/co-public/2021-device-and-locality-specific/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2021-device-and-locality-specific/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Insecurity of Processor Caches Due to Cache Timing-Based Vulnerabilities</title>
+      <link>https://thu-has.github.io/publication/2021-understanding/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-understanding/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Benchmark Suite for Evaluating Caches’ Vulnerability to Timing Attacks</title>
+      <link>https://thu-has.github.io/publication/2020-a-benchmark/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2020-a-benchmark/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Secure Caches using a Three-Step Model for Timing-Based Attacks</title>
+      <link>https://thu-has.github.io/publication/2019-analysis-of-secure-caches/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2019-analysis-of-secure-caches/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XMSS and Embedded Systems - XMSS Hardware Accelerators for RISC-V</title>
+      <link>https://thu-has.github.io/publication/co-public/2019-xmss/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2019-xmss/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secure TLBs</title>
+      <link>https://thu-has.github.io/publication/2019-secure-tlbs/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2019-secure-tlbs/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cache timing side-channel vulnerability checking with computation tree logic</title>
+      <link>https://thu-has.github.io/publication/2018-cache-timing/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2018-cache-timing/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secchisel: Language and tool for practical and scalable security verification of security-aware hardware architectures</title>
+      <link>https://thu-has.github.io/publication/2017-secchisel/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2017-secchisel/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

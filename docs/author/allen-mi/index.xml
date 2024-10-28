@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allen Mi | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/allen-mi/</link>
+      <atom:link href="https://thu-has.github.io/author/allen-mi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Allen Mi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Allen Mi</title>
+      <link>https://thu-has.github.io/author/allen-mi/</link>
+    </image>
+    
+    <item>
+      <title>Securing Reset Operations in NISQ Quantum Computers</title>
+      <link>https://thu-has.github.io/publication/co-public/2022-securing-reset/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2022-securing-reset/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Device- and Locality-Specific Fingerprinting of Shared NISQ Quantum Computers</title>
+      <link>https://thu-has.github.io/publication/co-public/2021-device-and-locality-specific/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2021-device-and-locality-specific/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vijaykrishnan Narayanan | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/vijaykrishnan-narayanan/</link>
+      <atom:link href="https://thu-has.github.io/author/vijaykrishnan-narayanan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vijaykrishnan Narayanan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Vijaykrishnan Narayanan</title>
+      <link>https://thu-has.github.io/author/vijaykrishnan-narayanan/</link>
+    </image>
+    
+    <item>
+      <title>TroScan: Enhancing on-chip delivery resilience to physical attack through frequency-triggered key generation</title>
+      <link>https://thu-has.github.io/publication/2024-troscan/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2024-troscan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
