@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengfei Qiu (Key Laboratory of Trustworthy Distributed Computing and Service (BUPT), Ministry of Education) | THU HAS Lab</title>
+    <link>http://localhost:1313/author/pengfei-qiu-key-laboratory-of-trustworthy-distributed-computing-and-service-bupt-ministry-of-education/</link>
+      <atom:link href="http://localhost:1313/author/pengfei-qiu-key-laboratory-of-trustworthy-distributed-computing-and-service-bupt-ministry-of-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengfei Qiu (Key Laboratory of Trustworthy Distributed Computing and Service (BUPT), Ministry of Education)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Pengfei Qiu (Key Laboratory of Trustworthy Distributed Computing and Service (BUPT), Ministry of Education)</title>
+      <link>http://localhost:1313/author/pengfei-qiu-key-laboratory-of-trustworthy-distributed-computing-and-service-bupt-ministry-of-education/</link>
+    </image>
+    
+    <item>
+      <title>GhostCache: Timer- and Counter-Free Cache Attacks Exploiting Weak Coherence on RISC-V and ARM Chips</title>
+      <link>http://localhost:1313/publication/2025-ghostcache/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ghostcache/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
