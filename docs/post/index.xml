@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | THU HAS Lab</title>
+    <link>https://thu-has.github.io/post/</link>
+      <atom:link href="https://thu-has.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Latest News</title>
+      <link>https://thu-has.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Our paper is accepted at NDSS 2025!</title>
+      <link>https://thu-has.github.io/post/25-2-24-ndss2025/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/post/25-2-24-ndss2025/</guid>
+      <description>&lt;p&gt;GadgetMeter: Quantitatively and Accurately Gauge the Exploitability of Speculative Gadgets&lt;/p&gt;
+&lt;p&gt;Our paper will be presented during NDSS 2025 (Feb. 24th - Feb. 28th).&lt;/p&gt;
+&lt;p&gt;For more details, please see the NDSS 2025 program: &lt;a href=&#34;https://www.ndss-symposium.org/ndss2025/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ndss-symposium.org/ndss2025/program/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Author List:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qi Ling (Shanghai Jia Tong University)&lt;/li&gt;
+&lt;li&gt;Yujun Liang (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Yi Ren (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Baris Kasikci (University of Washington)&lt;/li&gt;
+&lt;li&gt;Shuwen Deng* (Tsinghua University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[*]: corresponding author.&lt;/p&gt;
+&lt;p&gt;[1] Qi Ling, Yujun Liang, Yi Ren, Baris Kasikci and Shuwen Deng. NDSS 2025. GadgetMeter: Quantitatively and Accurately Gauge the Exploitability of Speculative Gadgets. In Proceedings of the 2025 Network and Distributed System Security (NDSS&amp;rsquo; 25) Symposium, February 24–28, 2025, San Diego, CA, USA.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our paper is accepted at CCS 2024!</title>
+      <link>https://thu-has.github.io/post/24-10-16-ccs2024/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/post/24-10-16-ccs2024/</guid>
+      <description>&lt;p&gt;CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses&lt;/p&gt;
+&lt;p&gt;Our paper will be presented on Thursday, October 17th, at Main Conference, 11:45 AM – 12:00 PM, Grand Ballroom Salon E.&lt;/p&gt;
+&lt;p&gt;Welcome to the 7-3. HW &amp;amp; CPS: Security of Circuit Design and FPGAs session.&lt;/p&gt;
+&lt;p&gt;For more details, please see the ACM CCS 2024 program: &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2024/program/schedule.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sigsac.org/ccs/CCS2024/program/schedule.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Author List:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jianfeng Wang (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Huazhong Yang (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Shuwen Deng* (Tsinghua University)&lt;/li&gt;
+&lt;li&gt;Xueqing Li* (Tsinghua University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[*]: corresponding author.&lt;/p&gt;
+&lt;p&gt;[1] Jianfeng Wang, Huazhong Yang, Shuwen Deng, and Xueqing Li. 2024. CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses. In Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS&amp;rsquo; 24), October 14–18, 2024, Salt Lake City, UT, USA.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
