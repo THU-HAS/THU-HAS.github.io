@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siyu Lin | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/siyu-lin/</link>
+      <atom:link href="https://thu-has.github.io/author/siyu-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siyu Lin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/author/siyu-lin/avatar_hu_fa46e006de35b5ac.jpg</url>
+      <title>Siyu Lin</title>
+      <link>https://thu-has.github.io/author/siyu-lin/</link>
+    </image>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://thu-has.github.io/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
