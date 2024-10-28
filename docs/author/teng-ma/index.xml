@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teng Ma | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/teng-ma/</link>
+      <atom:link href="https://thu-has.github.io/author/teng-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teng Ma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Teng Ma</title>
+      <link>https://thu-has.github.io/author/teng-ma/</link>
+    </image>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://thu-has.github.io/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CXL-Interplay: Unraveling and Characterizing CXL Interference in Modern Computer Systems</title>
+      <link>https://thu-has.github.io/publication/2025-cxl-interplay/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-cxl-interplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGNAR: Exploring Volatile-Channel Vulnerabilities on RDMA NIC</title>
+      <link>https://thu-has.github.io/publication/2025-ragnar/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-ragnar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

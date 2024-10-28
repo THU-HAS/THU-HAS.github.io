@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikolay Matyunin | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/nikolay-matyunin/</link>
+      <atom:link href="https://thu-has.github.io/author/nikolay-matyunin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikolay Matyunin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Nikolay Matyunin</title>
+      <link>https://thu-has.github.io/author/nikolay-matyunin/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Cache Attacks on Arm Processors and Secure Caches</title>
+      <link>https://thu-has.github.io/publication/2021-evaluation-of-cache-attacks/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2021-evaluation-of-cache-attacks/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

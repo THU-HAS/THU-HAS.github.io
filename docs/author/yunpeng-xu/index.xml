@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunpeng Xu | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/yunpeng-xu/</link>
+      <atom:link href="https://thu-has.github.io/author/yunpeng-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunpeng Xu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/author/yunpeng-xu/avatar_hu_a2eb6af050731191.jpg</url>
+      <title>Yunpeng Xu</title>
+      <link>https://thu-has.github.io/author/yunpeng-xu/</link>
+    </image>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://thu-has.github.io/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunpeng Xu</title>
+      <link>https://thu-has.github.io/author/yunpeng-xu/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/author/yunpeng-xu/</guid>
+      <description>&lt;p&gt;My research interests include general security issues, especially on network/RDMA security, confidential computing and side-channel security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAGNAR: Exploring Volatile-Channel Vulnerabilities on RDMA NIC</title>
+      <link>https://thu-has.github.io/publication/2025-ragnar/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2025-ragnar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

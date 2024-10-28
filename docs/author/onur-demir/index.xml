@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onur Demir | THU HAS Lab</title>
+    <link>https://thu-has.github.io/author/onur-demir/</link>
+      <atom:link href="https://thu-has.github.io/author/onur-demir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Onur Demir</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-has.github.io/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Onur Demir</title>
+      <link>https://thu-has.github.io/author/onur-demir/</link>
+    </image>
+    
+    <item>
+      <title>Survey of Approaches and Techniques for Security Verification of Computer Systems</title>
+      <link>https://thu-has.github.io/publication/co-public/2023-survey/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/co-public/2023-survey/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secchisel: Language and tool for practical and scalable security verification of security-aware hardware architectures</title>
+      <link>https://thu-has.github.io/publication/2017-secchisel/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://thu-has.github.io/publication/2017-secchisel/</guid>
+      <description>&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

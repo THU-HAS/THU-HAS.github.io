@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Paper | THU HAS Lab</title>
+    <link>http://localhost:1313/tag/best-paper/</link>
+      <atom:link href="http://localhost:1313/tag/best-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Best Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Best Paper</title>
+      <link>http://localhost:1313/tag/best-paper/</link>
+    </image>
+    
+    <item>
+      <title>PPA: Novel Page Prefetcher-Based Side-Channel Attacks</title>
+      <link>http://localhost:1313/publication/2025-ppa/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ppa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
