@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunpeng Xu | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/yunpeng-xu/</link>
+      <atom:link href="https://www.thu-haslab.org/author/yunpeng-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunpeng Xu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/author/yunpeng-xu/avatar_hu_a2eb6af050731191.jpg</url>
+      <title>Yunpeng Xu</title>
+      <link>https://www.thu-haslab.org/author/yunpeng-xu/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering Contention-Based Side-Channel Threats in AMD Zen Chiplet Architectures</title>
+      <link>https://www.thu-haslab.org/publication/2026-amd-zen-contention/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-amd-zen-contention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunpeng Xu</title>
+      <link>https://www.thu-haslab.org/author/yunpeng-xu/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/author/yunpeng-xu/</guid>
+      <description>&lt;p&gt;My research interests include side-channel security, arch and micro-arch reverse-engineering, chiplet system design, and new computing paradigms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TArCS: Trusted and Attack-Resilient Clock Source with TEE and RDMA</title>
+      <link>https://www.thu-haslab.org/publication/2026-tarcs/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-tarcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Hardware Security: The Role of AI for Hardware in the Security Era</title>
+      <link>https://www.thu-haslab.org/publication/2026-ml-hardware-security/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-ml-hardware-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://www.thu-haslab.org/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGNAR: Exploring Volatile-Channel Vulnerabilities on RDMA NIC</title>
+      <link>https://www.thu-haslab.org/publication/2025-ragnar/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2025-ragnar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Jin | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/yu-jin/</link>
+      <atom:link href="https://www.thu-haslab.org/author/yu-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Jin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/author/yu-jin/avatar_hu_f6fb633e85eb70a1.jpeg</url>
+      <title>Yu Jin</title>
+      <link>https://www.thu-haslab.org/author/yu-jin/</link>
+    </image>
+    
+    <item>
+      <title>TArCS: Trusted and Attack-Resilient Clock Source with TEE and RDMA</title>
+      <link>https://www.thu-haslab.org/publication/2026-tarcs/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-tarcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Hardware Security: The Role of AI for Hardware in the Security Era</title>
+      <link>https://www.thu-haslab.org/publication/2026-ml-hardware-security/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-ml-hardware-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSBench: Automated Characterization of Memory Dependence Predictors on Modern CPUs</title>
+      <link>https://www.thu-haslab.org/publication/2026-ssbench/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-ssbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stone-Skimming: Attacking Big-Data Analytics Applications with Page Table Walk</title>
+      <link>https://www.thu-haslab.org/publication/2026-stone-skimming/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-stone-skimming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DROW: Training-Free Load Speculative Execution Attacks on Apple Silicon</title>
+      <link>https://www.thu-haslab.org/publication/2026-drow/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-drow/</guid>
+      <description>&lt;p&gt;&amp;quot;&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PPA: Novel Page Prefetcher-Based Side-Channel Attacks</title>
+      <link>https://www.thu-haslab.org/publication/2025-ppa/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2025-ppa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GhostCache: Timer- and Counter-Free Cache Attacks Exploiting Weak Coherence on RISC-V and ARM Chips</title>
+      <link>https://www.thu-haslab.org/publication/2025-ghostcache/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2025-ghostcache/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

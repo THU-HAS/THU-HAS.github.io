@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchen Fan | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/yuchen-fan/</link>
+      <atom:link href="https://www.thu-haslab.org/author/yuchen-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchen Fan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/author/yuchen-fan/avatar_hu_274a3d9168945c9d.jpeg</url>
+      <title>Yuchen Fan</title>
+      <link>https://www.thu-haslab.org/author/yuchen-fan/</link>
+    </image>
+    
+    <item>
+      <title>TArCS: Trusted and Attack-Resilient Clock Source with TEE and RDMA</title>
+      <link>https://www.thu-haslab.org/publication/2026-tarcs/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-tarcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuchen Fan</title>
+      <link>https://www.thu-haslab.org/author/yuchen-fan/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/author/yuchen-fan/</guid>
+      <description>&lt;p&gt;See: &lt;a href=&#34;https://www.yuchenfan.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yuchenfan.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSBench: Automated Characterization of Memory Dependence Predictors on Modern CPUs</title>
+      <link>https://www.thu-haslab.org/publication/2026-ssbench/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-ssbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DROW: Training-Free Load Speculative Execution Attacks on Apple Silicon</title>
+      <link>https://www.thu-haslab.org/publication/2026-drow/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-drow/</guid>
+      <description>&lt;p&gt;&amp;quot;&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAGNAR: Exploring Volatile-Channel Vulnerabilities on RDMA NIC</title>
+      <link>https://www.thu-haslab.org/publication/2025-ragnar/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2025-ragnar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

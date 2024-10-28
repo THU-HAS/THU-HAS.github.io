@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muyang Li | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/muyang-li/</link>
+      <atom:link href="https://www.thu-haslab.org/author/muyang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muyang Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/author/muyang-li/avatar_hu_656c3770d78ad2ef.jpeg</url>
+      <title>Muyang Li</title>
+      <link>https://www.thu-haslab.org/author/muyang-li/</link>
+    </image>
+    
+    <item>
+      <title>MegaZK: A Memory Efficient GPU System Accelerating End-to-end Zero-Knowledge Proof</title>
+      <link>https://www.thu-haslab.org/publication/2026-megazk/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-megazk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muyang Li</title>
+      <link>https://www.thu-haslab.org/author/muyang-li/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/author/muyang-li/</guid>
+      <description>&lt;p&gt;Hi! My research interests include computer architecture and security. Currently I am working on Zero-Knowledge Proof and GPU things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Hardware Security: The Role of AI for Hardware in the Security Era</title>
+      <link>https://www.thu-haslab.org/publication/2026-ml-hardware-security/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-ml-hardware-security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

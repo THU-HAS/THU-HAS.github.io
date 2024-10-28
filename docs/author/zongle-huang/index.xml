@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongle Huang | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/zongle-huang/</link>
+      <atom:link href="https://www.thu-haslab.org/author/zongle-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongle Huang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Zongle Huang</title>
+      <link>https://www.thu-haslab.org/author/zongle-huang/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering Contention-Based Side-Channel Threats in AMD Zen Chiplet Architectures</title>
+      <link>https://www.thu-haslab.org/publication/2026-amd-zen-contention/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-amd-zen-contention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hecaton: Training Large Language Models with Scalable Chiplet Systems</title>
+      <link>https://www.thu-haslab.org/publication/co-public/2024-hecaton/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/co-public/2024-hecaton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

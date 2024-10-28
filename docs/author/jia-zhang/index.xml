@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Zhang | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/jia-zhang/</link>
+      <atom:link href="https://www.thu-haslab.org/author/jia-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Jia Zhang</title>
+      <link>https://www.thu-haslab.org/author/jia-zhang/</link>
+    </image>
+    
+    <item>
+      <title>TArCS: Trusted and Attack-Resilient Clock Source with TEE and RDMA</title>
+      <link>https://www.thu-haslab.org/publication/2026-tarcs/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-tarcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

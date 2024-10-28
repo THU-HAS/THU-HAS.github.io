@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teng Ma | THU HAS Lab</title>
+    <link>https://www.thu-haslab.org/author/teng-ma/</link>
+      <atom:link href="https://www.thu-haslab.org/author/teng-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teng Ma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.thu-haslab.org/media/icon_hu_7fe715d805bfc0e8.png</url>
+      <title>Teng Ma</title>
+      <link>https://www.thu-haslab.org/author/teng-ma/</link>
+    </image>
+    
+    <item>
+      <title>TArCS: Trusted and Attack-Resilient Clock Source with TEE and RDMA</title>
+      <link>https://www.thu-haslab.org/publication/2026-tarcs/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-tarcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHMemora: Protective Key-Value Store on Distributed Shared Memory</title>
+      <link>https://www.thu-haslab.org/publication/2026-shmemora/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2026-shmemora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CXL-Interplay: Unraveling and Characterizing CXL Interference in Modern Computer Systems</title>
+      <link>https://www.thu-haslab.org/publication/2025-cxl-interplay/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2025-cxl-interplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGNAR: Exploring Volatile-Channel Vulnerabilities on RDMA NIC</title>
+      <link>https://www.thu-haslab.org/publication/2025-ragnar/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.thu-haslab.org/publication/2025-ragnar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
